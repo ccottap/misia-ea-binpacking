@@ -69,7 +69,7 @@ public class BinPackingRepair extends MutationOperator {
 
 	@Override
 	public String toString() {
-		return "MyMutationOperator(" + prob + ")";
+		return "BinPackingReapir(" + prob + ")";
 	}
 
 }

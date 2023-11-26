@@ -119,7 +119,7 @@ public class BinPacking {
 	@Override
 	public String toString() {
 		int num = objects.length;
-		String str = "bin size: " + binSize + "\n" + "#objects: " + num;
+		String str = "bin size: " + binSize + "\n#objects: " + num;
 		for (int i=0; i<num; i++) {
 			str += (i%10 == 0) ? "\n" : "\t";
 			str += objects[i];

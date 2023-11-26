@@ -14,8 +14,8 @@ import es.uma.lcc.caesium.problem.binpacking.BinPacking;
 
 /**
  * Objective function for the Bin-Packing Problem. Solutions are represented as 
- * a list of the same length as number of objects, each position indicated the label of
- * the bin that object goes to.
+ * a list of the same length as number of objects, each position indicating the 
+ * label of the bin that object goes to.
  * @author ccottap
  * @version 1.0
  */
