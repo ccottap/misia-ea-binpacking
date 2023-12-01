@@ -67,3 +67,7 @@ build/
 ### VS Code ###
 .vscode/
 
+### Run files ###
+/run/*.dat
+/run/*stats*.json
+/run/*.pdf
