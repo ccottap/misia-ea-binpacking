@@ -18,7 +18,7 @@ import es.uma.lcc.caesium.problem.binpacking.BinPacking;
 public class BinPackingUtil {
 	
 	/**
-	 * Distribute the objects in the set specified among the bins. Each object is allocated in
+	 * Distribute the objects in the collection specified among the bins. Each object is allocated in
 	 * an existing bin or, if no one has enough size left, in a new one.
 	 * @param bp the problem instance
 	 * @param objects the objects to be distributed

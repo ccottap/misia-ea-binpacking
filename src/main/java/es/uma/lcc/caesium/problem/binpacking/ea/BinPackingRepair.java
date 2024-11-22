@@ -12,7 +12,7 @@ import es.uma.lcc.caesium.ea.operator.variation.mutation.MutationOperator;
 import es.uma.lcc.caesium.problem.binpacking.BinPacking;
 
 /**
- * A repair method for the Bin-packing Problem
+ * A repair method for the Bin-Packing Problem
  * @author ccottap
  * @version 1.0
  *
@@ -69,7 +69,7 @@ public class BinPackingRepair extends MutationOperator {
 
 	@Override
 	public String toString() {
-		return "BinPackingReapir(" + prob + ")";
+		return "BinPackingRepair(" + prob + ")";
 	}
 
 }
